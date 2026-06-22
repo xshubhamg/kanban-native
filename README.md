@@ -2,6 +2,8 @@
 
 A highly polished, premium Kanban board built using only native browser web APIs and client-side TypeScript. **Zero external runtime frameworks or UI libraries** (no React, no Tailwind, no Lodash, no drag-and-drop wrappers) — just pure, performant modern front-end engineering.
 
+![Kanban Flow Showcase](public/kanban-native.png)
+
 ---
 
 ## Key Features
